@@ -9,7 +9,7 @@
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
 ## 📸 Dashboard Preview
-![Power BI Dashboard](https://github.com/neharahate07/E-Commerce-Purchase-Behaviour-Analysis/blob/main/Dashboard_Image.png)
+![Power BI Dashboard](https://github.com/neharahate07/E-Commerce-Purchase-Behaviour-Analysis/blob/main/Dashboard%20Image.png)
 
 ## 📌 Project Overview
 
