@@ -1,4 +1,4 @@
-# 🛍️ E-Commerce Purchase Behaviour Dashboard
+# E-Commerce Purchase Behaviour Dashboard
 ### A Data-Driven Analysis of Online Buying Patterns Among College Girl Students in Amravati
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
@@ -8,10 +8,14 @@
 ![Chi-Square](https://img.shields.io/badge/Chi--Square-p%3D0.008-brightgreen)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
-## 📸 Dashboard Preview
+---
+
+## Dashboard Preview
 ![Power BI Dashboard](https://github.com/neharahate07/E-Commerce-Purchase-Behaviour-Analysis/blob/main/Dashboard%20Image.png)
 
-## 📌 Project Overview
+---
+
+## Project Overview
 
 This is an **end-to-end MBA dissertation project** that uses primary survey data (n=100) to analyse the online purchase behaviour of college girl students in Amravati for **fashion and beauty products**. The analysis includes descriptive statistics, Likert-scale scoring, Chi-square hypothesis testing, and an interactive Power BI dashboard.
 
@@ -22,7 +26,7 @@ This is an **end-to-end MBA dissertation project** that uses primary survey data
 
 ---
 
-## 🎯 Research Objectives
+## Research Objectives
 
 - Analyse the online shopping behaviour of college girl students in Amravati for fashion and beauty products
 - Identify key factors influencing purchase decisions — price, convenience, trust, peer influence, and digital marketing
@@ -31,7 +35,7 @@ This is an **end-to-end MBA dissertation project** that uses primary survey data
 
 ---
 
-## 🧪 Hypothesis Tested
+## Hypothesis Tested
 
 | | Hypothesis |
 |---|---|
@@ -42,7 +46,7 @@ This is an **end-to-end MBA dissertation project** that uses primary survey data
 
 ---
 
-## 📊 Dashboard Visuals (Power BI)
+## Dashboard Visuals (Power BI)
 
 | # | Visual | Data Source | Insight |
 |---|--------|------------|---------|
@@ -57,7 +61,7 @@ This is an **end-to-end MBA dissertation project** that uses primary survey data
 
 ---
 
-## 🔑 Key Findings
+## Key Findings
 
 ### Demographics
 - **53%** of respondents are aged 18–20; **93%** fall in the 18–23 age range
@@ -112,7 +116,7 @@ This is an **end-to-end MBA dissertation project** that uses primary survey data
 
 ---
 
-## 🧾 Chi-Square Test Results
+## Chi-Square Test Results
 
 | Variable Pair | χ² | df | p-value | Result |
 |---|:---:|:---:|:---:|:---:|
@@ -128,7 +132,7 @@ This is an **end-to-end MBA dissertation project** that uses primary survey data
 
 ---
 
-## 💼 Business Recommendations
+## Business Recommendations
 
 **1. Prioritise Influencer-Led Micro-Campaigns in Tier-II Cities**
 Social media influencers and friends together drive 42% of decisions. Partner with Amravati-based student content creators on Instagram and YouTube for authentic, relatable promotions.
@@ -147,7 +151,7 @@ Online reviews are the single most trusted source (31%). Incentivising photo and
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 | Tool | Purpose |
 |------|---------|
@@ -160,27 +164,27 @@ Online reviews are the single most trusted source (31%). Incentivising photo and
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
-📦 ecommerce-purchase-behaviour-amravati
- ┣ 📂 data
- ┃ ┣ 📄 Neha_PowerBI_Dataset.xlsx      ← Power BI ready: Raw data + Summary + Likert + Chi-Square + Setup Guide
- ┃ ┗ 📄 data_dictionary.md             ← Column descriptions and value labels
- ┣ 📂 analysis
- ┃ ┣ 📄 eda_analysis.ipynb             ← Python EDA notebook
- ┃ ┗ 📄 chi_square_tests.ipynb         ← Hypothesis testing with scipy
- ┣ 📂 dashboard
- ┃ ┣ 📄 purchase_behaviour.pbix        ← Power BI dashboard file
- ┃ ┗ 📄 dashboard_screenshot.png       ← Dashboard preview
- ┣ 📂 dissertation
- ┃ ┗ 📄 Dissertation_Report.pdf        ← Full academic report
- ┗ 📄 README.md
+Ecommerce-purchase-behaviour-amravati
+ ┣ data
+ ┃ ┣ Neha_PowerBI_Dataset.xlsx      ← Power BI ready: Raw data + Summary + Likert + Chi-Square + Setup Guide
+ ┃ ┗ data_dictionary.md             ← Column descriptions and value labels
+ ┣ analysis
+ ┃ ┣ eda_analysis.ipynb             ← Python EDA notebook
+ ┃ ┗ chi_square_tests.ipynb         ← Hypothesis testing with scipy
+ ┣ dashboard
+ ┃ ┣ purchase_behaviour.pbix        ← Power BI dashboard file
+ ┃ ┗ dashboard_screenshot.png       ← Dashboard preview
+ ┣ dissertation
+ ┃ ┗ Dissertation_Report.pdf        ← Full academic report
+ ┗ README.md
 ```
 
 ---
 
-## 🚀 How to Use This Project
+## How to Use This Project
 
 ### Open the Power BI Dashboard
 ```
@@ -221,7 +225,7 @@ DIVIDE(
 
 ---
 
-## 📐 Research Methodology
+## Research Methodology
 
 | Parameter | Detail |
 |-----------|--------|
@@ -237,7 +241,7 @@ DIVIDE(
 
 ---
 
-## 🔬 Theoretical Framework
+## Theoretical Framework
 
 1. **Hedonic & Utilitarian Motivation Theory** — Dual purchase motivations: enjoyment vs. practicality
 2. **Theory of Planned Behaviour (TPB)** — Attitude, subjective norms, and perceived behavioural control
@@ -246,7 +250,7 @@ DIVIDE(
 
 ---
 
-## 🙋 About the Researcher
+## About the Researcher
 
 **Neha Rahate**
 MBA (Business Analytics) | Sipna College of Engineering & Technology, Amravati
@@ -260,7 +264,7 @@ MBA (Business Analytics) | Sipna College of Engineering & Technology, Amravati
 
 ---
 
-## 📄 License
+## License
 
 Shared for academic and portfolio purposes. Please credit the author when referencing findings.
 
