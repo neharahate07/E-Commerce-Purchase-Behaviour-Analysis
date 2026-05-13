@@ -42,7 +42,7 @@ This is an **end-to-end MBA dissertation project** that uses primary survey data
 | **H₀ (Null)** | There is no significant relationship between influencing factors (price, brand, convenience, peer influence) and online purchase behaviour |
 | **H₁ (Alternative)** | There is a significant relationship between influencing factors and online purchase behaviour |
 
-**Result:** χ² = 17.2, df = 6, **p-value = 0.008 < 0.05** → **H₁ Accepted** ✅
+**Result:** χ² = 17.2, df = 6, **p-value = 0.008 < 0.05** → **H₁ Accepted** 
 
 ---
 
@@ -81,9 +81,9 @@ This is an **end-to-end MBA dissertation project** that uses primary survey data
 ### Purchase Drivers — Weighted Mean Scores (1–5 scale)
 | Factor | Weighted Mean | Rank |
 |--------|:---:|:---:|
-| Return / Refund Policy | **4.25** | 🥇 1st |
-| Influencer Impact | **4.23** | 🥈 2nd |
-| Discount Influence | **4.23** | 🥈 2nd |
+| Return / Refund Policy | **4.25** | 1st |
+| Influencer Impact | **4.23** | 2nd |
+| Discount Influence | **4.23** | 2nd |
 | Price Comparison | **4.15** | 4th |
 | Saves Time & Effort | **4.15** | 4th |
 | Reviews & Ratings | **4.09** | 6th |
@@ -120,13 +120,13 @@ This is an **end-to-end MBA dissertation project** that uses primary survey data
 
 | Variable Pair | χ² | df | p-value | Result |
 |---|:---:|:---:|:---:|:---:|
-| Overall Factors vs Purchase Behaviour | 17.2 | 6 | **0.008** | ✅ Significant |
-| Discount Influence vs Purchase | 8.4 | 2 | 0.015 | ✅ Significant |
-| Influencer Impact vs Purchase | 9.1 | 2 | 0.011 | ✅ Significant |
-| Return Policy vs Purchase | 7.8 | 2 | 0.020 | ✅ Significant |
-| Brand Preference vs Purchase | 6.2 | 2 | 0.045 | ✅ Significant |
-| Platform UX vs Purchase | 4.1 | 2 | 0.129 | ❌ Not Significant |
-| Trust vs Purchase | 5.9 | 2 | 0.052 | ⚠️ Borderline |
+| Overall Factors vs Purchase Behaviour | 17.2 | 6 | **0.008** | Significant |
+| Discount Influence vs Purchase | 8.4 | 2 | 0.015 | Significant |
+| Influencer Impact vs Purchase | 9.1 | 2 | 0.011 | Significant |
+| Return Policy vs Purchase | 7.8 | 2 | 0.020 | Significant |
+| Brand Preference vs Purchase | 6.2 | 2 | 0.045 | Significant |
+| Platform UX vs Purchase | 4.1 | 2 | 0.129 | Not Significant |
+| Trust vs Purchase | 5.9 | 2 | 0.052 | Borderline |
 
 *Significance level α = 0.05*
 
@@ -259,7 +259,7 @@ MBA (Business Analytics) | Sipna College of Engineering & Technology, Amravati
 **Skills:** Power BI · Excel · Python (Pandas, NumPy, Matplotlib) · SQL · Tableau · SAS
 **Certifications:** Data Visualization — TATA Forage | Data Analytics — Deloitte Forage | Power BI Skill Course | Base SAS — SAS India
 
-📧 neharahate077@gmail.com
+📧neharahate077@gmail.com
 🔗 [LinkedIn](https://linkedin.com/in/neha-rahate-179863246)
 
 ---
